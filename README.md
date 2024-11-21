@@ -25,11 +25,11 @@
 
 #
 
-![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=Gemstone-t&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
-
+<!-- ![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=Gemstone-t&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh) -->
+<!-- 
 <div align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gemstone-t&theme=dark&hide_border=true"/>
-</div>
+</div> -->
 
 #
 
@@ -123,9 +123,9 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/Gemstone-t">
+  <!-- <a href="https://github.com/Gemstone-t">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gemstone-t&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-  </a>
+  </a> -->
   <a href="https://github.com/Gemstone-t">
     <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gemstone-t&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
   </a>
@@ -134,16 +134,16 @@
 <br>
 
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=Gemstone-t&theme=react-dark&hide_border=true&area=true)
+<!-- ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=Gemstone-t&theme=react-dark&hide_border=true&area=true) -->
 
 
 <br/>
 
 
 
-
+<!-- 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.3%20million%20lines%20of%20code-blue)
-
+ -->
 
 #
 
